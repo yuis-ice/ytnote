@@ -20,6 +20,9 @@ Compatible with:
     <img width="70%" src="ss.png" alt=""/>
     <img width="20%" src="ss2.jpg" alt=""/>
   </p>
+  <p align="center">
+    Click the above images to jump to the YouTube tutorial!
+  </p>
 </a>
 
   
