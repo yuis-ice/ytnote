@@ -31,7 +31,7 @@ Compatible with:
 Copy the following code and paste onto your browser's URL address bar, enter to launch the app. 
 
 ```js
-javascript:(async () => { await import("https://cdn.jsdelivr.net/gh/yuis-ice/ytnote/bundle.js"); })();
+javascript:(async () => { await import("https://cdn.jsdelivr.net/gh/yuis-ice/ytnote@0.1.4/bundle.js"); })();
 ```
 
 **REMEMBER**, in most browsers for a security reason when you pasted "javascript:.." urls, it's trimmed automatically; So if the app doesn't launch, please double-check if you have the correct url that has the "javascript:" at the first of the url.
