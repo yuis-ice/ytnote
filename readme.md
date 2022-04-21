@@ -52,6 +52,14 @@ Bug examples and workarounds:
 1. always backup your works before using the app. 
 2. backing up your chrome tabs using an extension such as [session buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) is recommended
 
+**Pro tip:**
+
+A quick and safe way to try out the app is launching the app in the new Chrome instance. Open cmd.exe or powershell.exe then run i.e: 
+
+```sh
+chrome.exe --user-data-dir="C:\Users\username\chrome-tmp"
+```
+
 ## Discraimer
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
