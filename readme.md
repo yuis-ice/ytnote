@@ -1,5 +1,5 @@
 
-# YtNote by YuipApps 
+# ✍️ YtNote by YuipApps 
 
 This is a beta/free release version of the Chrome extension (1) "YtNote by YuipApps" from YuipApps. 
 
@@ -9,9 +9,12 @@ Compatible with:
 - Firefox
 - Opera
 - Microsoft Edge
+- Chromium
+- Brave Browser
 - Android Chrome
 - Kiwi Browser
-- iPhone Safari
+- iPhone/iOS Safari
+- and many more.
 
 (1): I said Chrome extension, but it is just a Javascript code, that doesn't depend on any particular browser. Thus, the app is fully compatible with any other browsers; All you want to launch the app is run a single line of code.
 
@@ -25,7 +28,14 @@ Compatible with:
   </p>
 </a>
 
-  
+## Table of Contents 
+
+- [Quick Start](#quick-start)
+- [Warning](#warning)
+- [Auto Startup](#auto-startup)
+- [YtNote Pro](#ytnote-pro)
+- [Discraimer](#discraimer)
+
 ## Quick Start 
 
 Copy the following code and paste onto your browser's URL address bar, enter to launch the app. 
@@ -59,6 +69,33 @@ A quick and safe way to try out the app is launching the app in the new Chrome i
 ```sh
 chrome.exe --user-data-dir="C:\Users\username\chrome-tmp"
 ```
+
+## Auto Startup 
+
+You can config the app automatically starting on YouTube URL visits using a userscript such as Tampermonkey. 
+
+1. Install the [Tampermonkey • Chrome](https://www.tampermonkey.net/) Chrome extension for Chrome/Brave/Kiwi or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) for Firefox.
+2. Install the userscript [here](https://github.com/yuis-ice/ytnote/raw/main/userscript/main.user.js).
+
+## YtNote Pro
+
+In the coming months, we're going to publish the alpha release of YtNote, a.k.a. "YtNote Pro". 
+
+YtNote Pro includes following features at this moment. 
+
+- **Much faster** 
+- **Saves notes**, state, data between tabs 
+- **YouTube, BiliBili, Twitch, Vimeo, Niconico**, and more video streaming sites 
+- Constant **bug fixes and feature updates** 
+- **Forum support** 
+
+We will update here when the app is ready to release. But in the case if you prefer to get notified when we have released the app, you can join to our mailing list. If you prefer that, email us via the following email, including a text message "**subscribe to YtNote Pro news**" (case insensitive).
+
+iris777/jp at g/mail.c/om
+
+(Anti spam: Please replace "/" to "" and " at " to "@" respectively.)
+
+Please note that, the email is not for support in any way. We don't check all support requests, advertisements, business contacts coming to this address.
 
 ## Discraimer
 
