@@ -91,9 +91,7 @@ YtNote Pro includes following features at this moment.
 
 We will update here when the app is ready to release. But in the case if you prefer to get notified when we have released the app, you can join to our mailing list. If you prefer that, email us via the following email, including a text message "**subscribe to YtNote Pro news**" (case insensitive).
 
-iris777/jp at g/mail.c/om
-
-(Anti spam: Please replace "/" to "" and " at " to "@" respectively.)
+<img width="33%" src="email.png" alt=""/>
 
 Please note that, the email is not for support in any way. We don't check all support requests, advertisements, business contacts coming to this address.
 
